@@ -1,2 +1,9 @@
 # SuzuBot-ArkResource
+
 暂时供 SuzuBot 使用的明日方舟静态资源，如果有很好的维护可能会变成公开的明日方舟资源库（？
+
+至于什么是 SuzuBot 嘛…… Suzu = スズ = Abbreviation for スズラン……
+
+是个基于 NoneBot 的 QQ 端明日方舟机器人呜…… 主要是我在写代码然后群友帮忙测试哦……
+
+目前功能还在绝赞开发中所以暂时没有 repo 喵……
